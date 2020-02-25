@@ -1,0 +1,807 @@
+{
+  "users": [
+    {
+      "id": 718127003812106240,
+      "id_str": "718127003812106240",
+      "name": "Trump Mar-A-Lago",
+      "screen_name": "MarALago",
+      "location": "Palm Beach, FL",
+      "description": "Twenty acre landmark estate and membership club offering dining, bridge, croquet, tennis, spa and entertainment.",
+      "url": "https://t.co/Z3KOFal9aN",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Z3KOFal9aN",
+              "expanded_url": "https://www.maralagoclub.com/",
+              "display_url": "maralagoclub.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2108,
+      "friends_count": 35,
+      "listed_count": 12,
+      "created_at": "Thu Apr 07 17:23:14 +0000 2016",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 0,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225188486464135171/TGq0DRWG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225188486464135171/TGq0DRWG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/718127003812106240/1580942673",
+      "profile_link_color": "006200",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 19405487,
+      "id_str": "19405487",
+      "name": "Michael Breed",
+      "screen_name": "MichaelBreed",
+      "location": "",
+      "description": "\u201cCourse Record\u201d @CBSSports Mon- 11am EST 2012 PGA Teacher of the Year - Chief Digital Instructor @GolfDigest - A New Breed of Golf @SiriusXM - @TrumpFerryPoint",
+      "url": "https://t.co/PhRnTGs2rN",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/PhRnTGs2rN",
+              "expanded_url": "http://michaelbreed.com/",
+              "display_url": "michaelbreed.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 45505,
+      "friends_count": 485,
+      "listed_count": 448,
+      "created_at": "Fri Jan 23 18:09:37 +0000 2009",
+      "favourites_count": 2840,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 15276,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 25 12:56:56 +0000 2020",
+        "id": 1232288367351664640,
+        "id_str": "1232288367351664640",
+        "text": "RT @PhilMickelson: There are a million ways to putt and we will discuss many things that can help your putting in the future. These two fun\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "PhilMickelson",
+              "name": "Phil Mickelson",
+              "id": 1027351783071346688,
+              "id_str": "1027351783071346688",
+              "indices": [
+                3,
+                17
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Feb 25 00:27:17 +0000 2020",
+          "id": 1232099712960024577,
+          "id_str": "1232099712960024577",
+          "text": "There are a million ways to putt and we will discuss many things that can help your putting in the future. These tw\u2026 https://t.co/uDsnijKbv5",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/uDsnijKbv5",
+                "expanded_url": "https://twitter.com/i/web/status/1232099712960024577",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 397,
+          "favorite_count": 5337,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 397,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/746061597941047296/SYknk6VJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/746061597941047296/SYknk6VJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19405487/1511196440",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 872899013527392258,
+      "id_str": "872899013527392258",
+      "name": "Trump Store",
+      "screen_name": "TrumpStore",
+      "location": "New York, USA",
+      "description": "The Official Twitter of the Trump Store\nGifts \u30fbAccessories\u30fb Apparel\u30fbGear",
+      "url": "https://t.co/2qPo57KgoO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2qPo57KgoO",
+              "expanded_url": "http://TrumpStore.com",
+              "display_url": "TrumpStore.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7778,
+      "friends_count": 54,
+      "listed_count": 36,
+      "created_at": "Thu Jun 08 19:31:57 +0000 2017",
+      "favourites_count": 824,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 632,
+      "lang": null,
+      "status": {
+        "created_at": "Sat Feb 22 19:00:15 +0000 2020",
+        "id": 1231292636348243968,
+        "id_str": "1231292636348243968",
+        "text": "Spring must-haves from our Signature Collection. Our porcelain trays, patterned neckties and engraved pens bring a\u2026 https://t.co/yeuJjDyKLC",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/yeuJjDyKLC",
+              "expanded_url": "https://twitter.com/i/web/status/1231292636348243968",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1211683095469903875/wDkUMe6Z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211683095469903875/wDkUMe6Z_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/872899013527392258/1582289220",
+      "profile_link_color": "CFB53B",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 108471631,
+      "id_str": "108471631",
+      "name": "MELANIA TRUMP",
+      "screen_name": "MELANIATRUMP",
+      "location": "New York City",
+      "description": "The official profile for Melania Trump",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1122612,
+      "friends_count": 54,
+      "listed_count": 3515,
+      "created_at": "Tue Jan 26 01:48:43 +0000 2010",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1940,
+      "lang": null,
+      "status": {
+        "created_at": "Mon Jan 20 19:39:46 +0000 2020",
+        "id": 1219343780580593664,
+        "id_str": "1219343780580593664",
+        "text": "RT @FLOTUS: It is a great honor to serve the people of this incredible country. \ud83c\uddfa\ud83c\uddf8 #InaugurationDay2017 https://t.co/4SEj2VBxXO",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "InaugurationDay2017",
+              "indices": [
+                83,
+                103
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FLOTUS",
+              "name": "Melania Trump",
+              "id": 818876014390603776,
+              "id_str": "818876014390603776",
+              "indices": [
+                3,
+                10
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1219341631905726464,
+              "id_str": "1219341631905726464",
+              "indices": [
+                104,
+                127
+              ],
+              "media_url": "http://pbs.twimg.com/media/EOv4wP2WAAAqzcg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EOv4wP2WAAAqzcg.jpg",
+              "url": "https://t.co/4SEj2VBxXO",
+              "display_url": "pic.twitter.com/4SEj2VBxXO",
+              "expanded_url": "https://twitter.com/FLOTUS/status/1219341636821569537/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 964,
+                  "h": 1183,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 964,
+                  "h": 1183,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 554,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1219341636821569537,
+              "source_status_id_str": "1219341636821569537",
+              "source_user_id": 818876014390603776,
+              "source_user_id_str": "818876014390603776"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1219341631905726464,
+              "id_str": "1219341631905726464",
+              "indices": [
+                104,
+                127
+              ],
+              "media_url": "http://pbs.twimg.com/media/EOv4wP2WAAAqzcg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EOv4wP2WAAAqzcg.jpg",
+              "url": "https://t.co/4SEj2VBxXO",
+              "display_url": "pic.twitter.com/4SEj2VBxXO",
+              "expanded_url": "https://twitter.com/FLOTUS/status/1219341636821569537/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 964,
+                  "h": 1183,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 964,
+                  "h": 1183,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 554,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1219341636821569537,
+              "source_status_id_str": "1219341636821569537",
+              "source_user_id": 818876014390603776,
+              "source_user_id_str": "818876014390603776"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Mon Jan 20 19:31:15 +0000 2020",
+          "id": 1219341636821569537,
+          "id_str": "1219341636821569537",
+          "text": "It is a great honor to serve the people of this incredible country. \ud83c\uddfa\ud83c\uddf8 #InaugurationDay2017 https://t.co/4SEj2VBxXO",
+          "truncated": false,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "InaugurationDay2017",
+                "indices": [
+                  71,
+                  91
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+              {
+                "id": 1219341631905726464,
+                "id_str": "1219341631905726464",
+                "indices": [
+                  92,
+                  115
+                ],
+                "media_url": "http://pbs.twimg.com/media/EOv4wP2WAAAqzcg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EOv4wP2WAAAqzcg.jpg",
+                "url": "https://t.co/4SEj2VBxXO",
+                "display_url": "pic.twitter.com/4SEj2VBxXO",
+                "expanded_url": "https://twitter.com/FLOTUS/status/1219341636821569537/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 964,
+                    "h": 1183,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 964,
+                    "h": 1183,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 554,
+                    "h": 680,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 1219341631905726464,
+                "id_str": "1219341631905726464",
+                "indices": [
+                  92,
+                  115
+                ],
+                "media_url": "http://pbs.twimg.com/media/EOv4wP2WAAAqzcg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EOv4wP2WAAAqzcg.jpg",
+                "url": "https://t.co/4SEj2VBxXO",
+                "display_url": "pic.twitter.com/4SEj2VBxXO",
+                "expanded_url": "https://twitter.com/FLOTUS/status/1219341636821569537/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 964,
+                    "h": 1183,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 964,
+                    "h": 1183,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 554,
+                    "h": 680,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 15263,
+          "favorite_count": 113201,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 15263,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/726781589192069126/zg456hZZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/726781589192069126/zg456hZZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/108471631/1431540397",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 169475629,
+      "id_str": "169475629",
+      "name": "Suzie Mills",
+      "screen_name": "GMatTRUMPNY",
+      "location": "New York",
+      "description": "",
+      "url": "https://t.co/0M8DE1VXuM",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0M8DE1VXuM",
+              "expanded_url": "http://trumpintl.com",
+              "display_url": "trumpintl.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 763,
+      "friends_count": 279,
+      "listed_count": 9,
+      "created_at": "Thu Jul 22 12:42:24 +0000 2010",
+      "favourites_count": 108,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 416,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 18 17:13:35 +0000 2020",
+        "id": 1229816242799861761,
+        "id_str": "1229816242799861761",
+        "text": "Always an honor to celebrate with our teams in achieving Forbes Five Stars @TrumpNewYork @TrumpDC @TheChampLounge\u2026 https://t.co/IFcEvazRnS",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "TrumpNewYork",
+              "name": "Trump New York",
+              "id": 184890642,
+              "id_str": "184890642",
+              "indices": [
+                75,
+                88
+              ]
+            },
+            {
+              "screen_name": "TrumpDC",
+              "name": "Trump Washington DC",
+              "id": 2314391886,
+              "id_str": "2314391886",
+              "indices": [
+                89,
+                97
+              ]
+            },
+            {
+              "screen_name": "TheChampLounge",
+              "name": "The Champagne Lounge + Crudo Bar",
+              "id": 1001168221200789505,
+              "id_str": "1001168221200789505",
+              "indices": [
+                98,
+                113
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/IFcEvazRnS",
+              "expanded_url": "https://twitter.com/i/web/status/1229816242799861761",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                115,
+                138
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            36.10762073,
+            -115.17622232
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            -115.17622232,
+            36.10762073
+          ]
+        },
+        "place": {
+          "id": "8fa6d7a33b83ef26",
+          "url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json",
+          "place_type": "city",
+          "name": "Paradise",
+          "full_name": "Paradise, NV",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -115.2092535,
+                  35.984784
+                ],
+                [
+                  -115.0610763,
+                  35.984784
+                ],
+                [
+                  -115.0610763,
+                  36.137145
+                ],
+                [
+                  -115.2092535,
+                  36.137145
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1038971438471020544/_BNIC8DA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038971438471020544/_BNIC8DA_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    }
+  ],
+  "next_cursor": 1560243964378682729,
+  "next_cursor_str": "1560243964378682729",
+  "previous_cursor": 0,
+  "previous_cursor_str": "0",
+  "total_count": null
+}
