@@ -22,6 +22,7 @@ def base():
     request.form['name']
     print(username)
     return render_template('base.html')
+
 @site.route('/map')
 def drawmap():
     data = twitter2.get_data(username)
